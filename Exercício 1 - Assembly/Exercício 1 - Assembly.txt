@@ -1,0 +1,37 @@
+Exercício 1
+
+
+0. Fazer os seguintes programas abaixo:
+
+    a. Insira o valor 81 no registrador t0;
+    b. Insira o valor 20 no registrador t0 e o valor 5 no registrador t1, em s  eguida exiba a soma, a subtração, a multiplicação e a divisão do primeiro número pelo 
+       segundo;
+    c. A partir do programa do item b, continue: Armazene o total da soma dos dois valores na posição 0x10010020 (Dica: Use o sw)
+    d. A partir do programa do item b, continue: Armazene o total da soma dos dois valores na posição 0x10010021 (Dica: Use o sb)
+    e  Receba um valor inteiro digitado pelo usuário. Coloque o valor no registrador t0. 
+    f. Receba dois valores digitados pelo usuário. Exiba a soma dos dois valores.
+    g. Altere o programa do item f para que seja exibida uma mensagem pedindo os valores que serão digitados. Uma mensagem para cada valor solicitado.
+    h. Solicite que um usuário digite uma frase, com no máximo 10 caracteres. Em seguida, armazene o texto digitado na posição de memória 0x10010080. Em seguida 
+       exiba a frase digitada a partir do endereço 0x10010080.
+    i. Usando a diretiva .word, insira os valor 34 e 35 na memória. Em seguida, deve ser exibida a soma dos dois valores.
+    j. Use a diretiva .byte para carregar os valores 119 e 120 na memória, como descrito abaixo:
+            str: .byte 119 120
+       Agora, faça com que sejam exibidos esses dois caracteres.
+    
+
+1. Fazer um programa que receba dois valores inteiros A e B. Em seguida o programa deve imprimir uma das seguintes mensagens:
+    a. A > B (Caso o primeiro valor digitado seja maior que o segundo)
+    b. A < B (Caso o primeiro valor digitado seja menor que o segundo)
+    c. A = B (Caso os dois valores digitados sejam iguais)
+
+
+2. Fazer um programa que receba um valor inteiro digitado por um usuário. Deve ser exibida uma mensagem caso o valor seja igual a zero, menor que zero ou maior que zero.
+
+
+
+Questão Desafio: Vale 0,5 ponto extra para a prova 2
+
+Fazer um programa que receba uma palavra digitada por um usuário. Ao final o programa deve exibir a quantidade de caracteres da palavra digitada. 
+Ex.: Se alguém digitou a palavra Mariana, deve ser exibido ao final o valor 7. (O primeiro que enviar a questão correta pela plataforma virtual, será contemplado.)
+
+
