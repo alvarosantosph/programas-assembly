@@ -1,3 +1,5 @@
-# Exercicios-Assembly-UNIPE-P3
+# Centro Universiário de João Pessoa - UNIPE
 
-Centro Universiário de João Pessoa - UNIPE
+```sh
+Exercicios-Assembly-UNIPE-P3
+```
