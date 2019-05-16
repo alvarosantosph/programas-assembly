@@ -1,5 +1,9 @@
-# Centro Universiário de João Pessoa - UNIPE
+# EXEMPLOS SIMPLES DE PROGRAMAS ASSEMBLY
 
 ```sh
-Exercicios-Assembly-UNIPE-P3
+Assembly
 ```
+
+### Desenvolvedor:
+
+* Alvaro Santos
