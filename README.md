@@ -1,7 +1,7 @@
 # EXEMPLOS SIMPLES DE PROGRAMAS ASSEMBLY
 
 ```sh
-Assembly
+Exemplos de programas assembly
 ```
 
 <div align="left">
